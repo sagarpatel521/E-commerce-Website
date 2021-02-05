@@ -15,25 +15,38 @@ Project is developed using the HTML, CSS, Bootstrap, JavaScript, ASP.NET and SQL
 <br>
 
 # Flow Description
+### Step 1. Register your account
 ```
-1. Register User account
-2. Log In User
+1.1 Register User account
+1.2 Log In User
 ```
 ![packageFile](/docs/log-in.png)
+
+
+### Step 2. Redirect to Home Page
 ```
-3. Check the Home Page
+2.1 Checkout the Home Page
 ```
 ![packageFile](/docs/index.png)
+
+
+### Step 3. Select Product
 ```
-4. Select the Product from Product Page
+3.1 Select the Product from Product Page
 ```
 ![packageFile](/docs/productpage.png)
+
+
+### Step 4. Check Product Details
 ```
 5. Go to the Individual Product
 6. Choose your suitable Size
 7. Press Add Cart
 ```
 ![packageFile](/docs/singleproduct.png)
+
+
+### Step 5. Checkout
 ```
 8. Go to Cart
 9. Check your Total Amount
