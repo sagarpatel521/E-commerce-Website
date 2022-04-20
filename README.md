@@ -20,7 +20,7 @@ Project is developed using the HTML, CSS, Bootstrap, JavaScript, ASP.NET and SQL
 1.1 Register User account
 1.2 Log In User
 ```
-![packageFile](/docs/index.png)
+![packageFile](/docs/log-in.png)
 
 ### Step 2. Redirect to Home Page
 ```
