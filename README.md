@@ -20,9 +20,8 @@ Project is developed using the HTML, CSS, Bootstrap, JavaScript, ASP.NET and SQL
 1.1 Register User account
 1.2 Log In User
 ```
-![packageFile](![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true))
+![packageFile](/docs/index.png)
 
-https://github.com/sagarpatel521/Tic-tac-toe/blob/master/images/tic-tac-toe%20game.png
 ### Step 2. Redirect to Home Page
 ```
 2.1 Checkout the Home Page
