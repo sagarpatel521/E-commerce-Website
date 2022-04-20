@@ -60,4 +60,4 @@ Project is developed using the HTML, CSS, Bootstrap, JavaScript, ASP.NET and SQL
 </p>
 <br>
 
-For more details Contact me on [LinkedIn](https://www.linkedin.com/in/sagarkumar-limbasiya-9930a8188/)
+For more details Contact me on [LinkedIn](https://www.linkedin.com/in/sagarkumar-limbasiya/)
